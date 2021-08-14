@@ -1,0 +1,59 @@
+.navbar-brand{
+    font-family: 'Grand Hotel', cursive;
+    font-weight: bold;
+}
+
+.video{
+    height: 50vh;
+}
+
+.mycolor{
+    background-color: lightgray;
+}
+
+a:hover, a:active {
+    color:grey;
+}
+
+a{
+    color: darkgrey;
+}
+
+.navbar-brand{
+    font-size: 2rem;
+}
+
+.mysize{
+    font-size: 1.5rem;
+}
+
+.nav-pills .nav-link.active, .nav-pills .show>.nav-link {
+    color:white;
+    background-color: darkgrey;
+}
+
+.nav-link{
+    color:grey;
+}
+
+/*Search Bar Classes*/
+
+.input-icons i {
+    position: absolute;
+}
+  
+.input-icons {
+    width: 100%;
+    margin-bottom: 10px;
+}
+  
+.icon {
+    padding: 10px;
+    min-width: 40px;
+}
+  
+.input-field {
+    width: 100%;
+    padding: 10px;
+    text-align: center;
+}
